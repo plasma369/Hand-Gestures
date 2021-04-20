@@ -1,7 +1,7 @@
 body
 {
     color: white;
-    background-color: crimson;
+    background-color: dodgerblue;
 }
 
 .heading
@@ -10,9 +10,10 @@ body
     font-size: 22px;
 }
 
-.name_of_objects, #result_object_name, #result_object_accuracy
+#result_object_name, #result_object_accuracy
 {
-    color: pink;
+    color: lightskyblue;
+    
 }
 
 #camera
